@@ -1,6 +1,6 @@
 # 🎓 Student Study Type Classifier
 
-> **Aplikasi Klasifikasi Tipe Mahasiswa Berdasarkan Kebiasaan Belajar Menggunakan Struktur Data Binary Decision Tree**
+> **Klasifikasi Tipe Mahasiswa Berdasarkan Kebiasaan Belajar Menggunakan Struktur Data Binary Decision Tree**
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -107,7 +107,7 @@ Pastikan **Python 3.9+** sudah terpasang pada sistem Anda.
 
 ### 2. Kloning Repositori & Instalasi Dependensi
 ```bash
-git clone https://github.com/<username>/student-study-type-classifier.git
+git clone https://github.com/Rahma-183/student-study-type-classifier.git
 cd student-study-type-classifier
 pip install -r requirements.txt
 ```
